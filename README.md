@@ -2,7 +2,7 @@
 
 This repository contains hands-on Linux hardening and security practice from my personal cybersecurity home lab.
 
-These tasks helped me develop practical skills in system auditing, user management, file permissions, logs, and secure configurations—core skills for SOC and cybersecurity analyst roles.
+These tasks helped me develop practical skills in system auditing, user management, file permissions, logs, and secure configurations, core skills for SOC and cybersecurity analyst roles.
 
 ---
 
