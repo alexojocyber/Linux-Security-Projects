@@ -66,3 +66,26 @@ Linux-Security-Projects/
 
 ## Notes
 This repo supports my Google Cybersecurity Certificate, Linux security practice, and SOC Analyst skill development.
+
+---
+
+## 🔗 Related Projects
+
+This repo is part of a complete SOC & Linux security workflow:
+
+| Project | Description |
+|---------|-------------|
+| [SSH Brute Force Detection Lab](https://github.com/alexojocyber/SSH-BruteForce-Detection-Lab) | Real SSH attack simulation + Fail2Ban defense |
+| [Enterprise SIEM Lab](https://github.com/alexojocyber/SIEM-Investigation-Lab) | PAM brute-force detection with MITRE ATT&CK mapping |
+| [Splunk SIEM Lab](https://github.com/alexojocyber/Splunk-SIEM-Lab) | Enterprise detection dashboard using Splunk Cloud |
+| [Python Log Parser](https://github.com/alexojocyber/Python-Log-Parser) | Automated Python script for brute force detection |
+
+---
+
+## 👨‍💻 Author
+
+**Alex Ojo**
+Cybersecurity Student | SOC Analyst Trainee
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/alex-o-ojo-ab9252185)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/alexojocyber)
